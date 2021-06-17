@@ -1,6 +1,6 @@
 # Project_Electronics_Arm
 
-Motor drive design and implementation for robot arm,Controlling a 6 servos position using a potentiometer (variable) for control angle.
+Motor drive design and implementation for robot arm,Controlling a 6 servos position using a potentiometer (variable resistor) for control angle.
 
 
 # Component List:
@@ -37,8 +37,10 @@ Step_4, we go to the code and there will be an explanation in each line.
 
 # Code:
 
-/* Controlling a 6_servos position using a potentiometer (variable resistor). 
-   17 june 2021 _ Eng.odai Farhat.
+/* Controlling a 6 servos position using a potentiometer (variable resistor).
+
+
+   17 june 2021 _ Eng.odai Farhat
 
 */
 

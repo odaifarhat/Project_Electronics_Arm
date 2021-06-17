@@ -120,7 +120,7 @@ va3 = map(va3, 0, 1023, 0, 180); // scale it to use it with the servo (value bet
 
 s3elbow.write(va3); // sets the servo position according to the scaled value
 
-delay(15);
+delay(15); // waits for the servo to get there
 
 /********************************************************************************/
 
@@ -130,7 +130,7 @@ va4 = map(va4, 0, 1023, 0, 180); // scale it to use it with the servo (value bet
 
 s4wrist.write(va4); // sets the servo position according to the scaled value
 
-delay(15);
+delay(15); // waits for the servo to get there
 
 /********************************************************************************/
 
@@ -140,7 +140,7 @@ va5 = map(va5, 0, 1023, 0, 180); // scale it to use it with the servo (value bet
 
 s5Gripper.write(va5); // sets the servo position according to the scaled value
 
-delay(15);
+delay(15); // waits for the servo to get there
 
 /********************************************************************************/
 
@@ -150,10 +150,10 @@ va6 = map(va6, 0, 1023, 0, 180); // scale it to use it with the servo (value bet
 
 s6freedom.write(va6); // sets the servo position according to the scaled value
 
-delay(15);
+delay(15); // waits for the servo to get there
 
 }
 
-/************************************************************************************************************************************/
+/********************************************************************************/
 
                                                           /* END */

@@ -1,0 +1,2 @@
+# Project_Electronics_Arm
+Motor drive design and implementation for robot arm,Controlling_a_6_servos_position_using_a_potentiometer__variable.

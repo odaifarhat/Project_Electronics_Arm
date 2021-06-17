@@ -40,7 +40,7 @@ Step_4, we go to the code and there will be an explanation in each line.
 /* Controlling a 6 servos position using a potentiometer (variable resistor).
 
 
-   17 june 2021 _ Eng.odai Farhat
+   17 june 2021 _ Eng.Odai Farhat
 
 */
 
